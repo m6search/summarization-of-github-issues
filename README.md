@@ -1,10 +1,10 @@
-**Inspo**
+**Inspo:**
 
 Paper: **iTiger: An Automatic Issue Title Generation Tool**
 
-[Git repository](https://github.com/soarsmu/iTiger)
+[Git repository of the paper](https://github.com/soarsmu/iTiger)
 
-[Proposed model](https://smu-my.sharepoint.com/personal/tingzhang_2019_phdcs_smu_edu_sg/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ftingzhang%5F2019%5Fphdcs%5Fsmu%5Fedu%5Fsg%2FDocuments%2Fmodel%2Ezip&parent=%2Fpersonal%2Ftingzhang%5F2019%5Fphdcs%5Fsmu%5Fedu%5Fsg%2FDocuments&ga=1)
+[iTape dataset ](https://github.com/imcsq/iTAPE/tree/master/data)
 
 **Dataset**
 
